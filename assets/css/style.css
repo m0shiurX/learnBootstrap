@@ -1,0 +1,14 @@
+/* Backgrounds */
+.bg-primary {
+    background-color: #754EF9 !important;
+}
+/* Text */
+.text-primary {
+    color: #754EF9 !important;
+}
+
+
+/* Layout */
+.section_height {
+    height: 800px;
+}
