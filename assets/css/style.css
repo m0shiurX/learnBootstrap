@@ -12,3 +12,19 @@
 .section_height {
     height: 800px;
 }
+
+
+/* Others */
+.social_buttons {
+    top: 43%;
+    right: -65px;
+    transform: rotate(90deg);
+}
+.social_buttons .fa {
+    transform: rotate(-90deg);
+}
+.dash {
+    height: 1px;
+    display: inline-block;
+    width: 50px;
+}
